@@ -76,7 +76,7 @@ python churn_prediction.py
  Expected Output
 
 ```text
-Accuracy: 86.1%
+Accuracy: 0.86%
 ```
 
 The exact accuracy may vary slightly depending on the train-test split and model parameters.
@@ -115,4 +115,3 @@ This project demonstrates the use of Machine Learning in predicting customer chu
 
 Pradeepa D
 
-BCA Student | Machine Learning Enthusiast
