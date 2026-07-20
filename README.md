@@ -79,6 +79,9 @@ python churn_prediction.py
 Accuracy: 0.86%
 ```
 
+<img width="518" height="393" alt="image" src="https://github.com/user-attachments/assets/1409694d-3977-4650-a0fa-a0d53eaae082" />
+
+
 The exact accuracy may vary slightly depending on the train-test split and model parameters.
 
 ## Performance Metrics
